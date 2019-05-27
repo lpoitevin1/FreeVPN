@@ -9,6 +9,8 @@
 
 * BeautifulSoup : <code>pip3 install beautifulsoup4</code>
 
+* OpenVPN : <code>apt-get -y install openvpn</code>
+
 
 ## How to 
 
