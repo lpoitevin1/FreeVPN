@@ -44,7 +44,6 @@ if( id_soup is not None ) :
     tab2.append((re.findall(r'<strong>(.*?)</strong>', str(tab[0]))))
     img = str(id_soup.find('img')['src'])
     img = img.replace(" ", "%20")
-    print(img)
     tab2.append(img)
     username = str(tab2[0]).replace('Username: ','')
     username = username.replace('[','')
