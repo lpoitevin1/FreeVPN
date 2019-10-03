@@ -23,3 +23,6 @@
 * <code>openvpn --config openvpn --config <configFileName.ovpn></code>
 
 * enter username and enter the password image in password.png
+
+* verify on https://www.hostip.fr/
+
