@@ -1,4 +1,4 @@
-# JohnDoeVPN
+# FreeVPN
 
 
 * FreeVPN build in python3 using scrapping
